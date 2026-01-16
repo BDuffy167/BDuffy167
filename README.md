@@ -1,4 +1,7 @@
-## Hi there 👋
+Brandon Duffy
+Bachelor of Science in Information Technology and Cybersecurity
+
+
 
 <!--
 **BDuffy167/BDuffy167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
