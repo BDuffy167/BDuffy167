@@ -1,23 +1,21 @@
-Brandon Duffy  
-Bachelor of Science in Information Technology and Cybersecurity  
+# Brandon Duffy
 
-I'm currently working on:  
-  1. Battletech Solaris pilot stats tracker app.  
-  2. Unreal Tournament 2004 multiplayer server powered by Azure.
+🎓 **Bachelor of Science in Information Technology & Cybersecurity**
 
+---
 
+## 👨‍💻 Current Projects
 
-<!--
-**BDuffy167/BDuffy167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Battletech: Solaris Pilot Stats Tracker**  
+  A tool for tracking and managing pilot performance and statistics.
 
-Here are some ideas to get you started:
+- **Unreal Tournament 2004 Multiplayer Server**  
+  A cloud-hosted multiplayer server powered by **Microsoft Azure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Interests & Focus
+- Software development
+- Game-related tools and infrastructure
+- Cloud hosting and systems administration
+- Cybersecurity fundamentals
