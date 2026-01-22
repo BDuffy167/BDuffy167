@@ -1,6 +1,9 @@
 Brandon Duffy  
 Bachelor of Science in Information Technology and Cybersecurity  
 
+I'm currently working on:  
+  1. Battletech Solaris pilot stats tracker app.  
+  2. Unreal Tournament 2004 multiplayer server powered by Azure.
 
 
 
