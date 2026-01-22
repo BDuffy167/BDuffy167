@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Current Projects
 
-- **Battletech: Solaris VII Pilot Stats Tracker**  
+- **BattleTech: Solaris VII Pilot Stats Tracker**  
   A tool for tracking and managing pilot performance and statistics.
 
 - **Unreal Tournament 2004 Multiplayer Server**  
