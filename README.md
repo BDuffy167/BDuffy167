@@ -1,5 +1,6 @@
-Brandon Duffy
-Bachelor of Science in Information Technology and Cybersecurity
+Brandon Duffy  
+Bachelor of Science in Information Technology and Cybersecurity  
+
 
 
 
